@@ -12,6 +12,7 @@ namespace MVVMDemo.ViewModel
     public class StudentViewModel
     {
 
+		//eddie is great
         public ObservableCollection<Student> Students
         {
             get;
