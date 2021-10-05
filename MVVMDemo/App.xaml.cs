@@ -11,6 +11,7 @@ namespace MVVMDemo
     /// <summary>
     /// Interaction logic for App.xaml
     /// </summary>
+	//eddie
     public partial class App : Application
     {
     }
